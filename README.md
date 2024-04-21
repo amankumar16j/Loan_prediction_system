@@ -14,9 +14,9 @@ Development of a predictive model with good accuracy to predict which customers 
 10) Training Model
 
 ## Mode Used to predict 
-   BaggingClassifier()
-   Scores
-   Accuracy : 98%
-   Precision: 97%
-   Recall   : 81%
-   F1-score : 89%
+   BaggingClassifier()->
+   Scores->
+   Accuracy : 98%,
+   Precision: 97%,
+   Recall   : 81%,
+   F1-score : 89%.
